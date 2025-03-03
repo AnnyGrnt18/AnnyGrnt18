@@ -1,7 +1,8 @@
 ## Hey, Whats up?
 - Im currently learning about code
-- If you have aany tips and tricks that can help thru my learning journey it would be appreciate it!
-- Planning making an idie game on the future!:upside_down_face::upside_down_face:
+- If you have any tips and tricks that can help thru my learning journey it would be appreciate it!
+- Planning making an idie game on the future! 🙃🙃
+- DC: Anny_18
 <!--
 **AnnyGrnt18/AnnyGrnt18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
